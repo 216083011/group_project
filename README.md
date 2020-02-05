@@ -1,2 +1,2 @@
 # group_project
-Final Year Gropu Projectfor Informatics 3
+Final Year Group Project for Informatics 3
